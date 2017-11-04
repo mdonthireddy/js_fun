@@ -1,2 +1,2 @@
 # js_fun
-js fun
+Random javascript code 
